@@ -1,0 +1,5 @@
+We use a Scanner to read input from the user.
+We create a BufferedWriter to write to the todo.txt file.
+The user is prompted to enter to-do items one by one. They can enter "done" to finish entering items.
+Each to-do item is written to the file, one per line.
+Finally, a message is printed to confirm that the to-do items have been saved to the file..
